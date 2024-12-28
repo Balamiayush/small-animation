@@ -6,14 +6,7 @@
   color: wheat;
   font-family: "Poppins", serif;
 }
-::-webkit-scrollbar {
-  width: 12px;
-  background-color: rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
-  padding: 10px;
-  /* border-radius: 10px; */
-  margin-bottom: 20px;
-}
+
 html,
 body {
   width: 100%;
